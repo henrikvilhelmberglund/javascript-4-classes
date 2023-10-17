@@ -1,0 +1,11 @@
+{
+  "name": "javascript-4-classes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "watch": "tsc --watch"
+  },
+  "author": "",
+  "license": "ISC"
+}
